@@ -218,7 +218,7 @@ function create_config( )
     "inv",
     "on-off"
     },
-    sudo_users = {146661928},--Sudo users
+    sudo_users = {},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[BoyCode Self-Bot 🤖👥
 Writed by : @BoyCode
@@ -273,11 +273,8 @@ Get Backup
 !bot off
 Get Bot ON/OFF in Group
 
-!invite [Username|Reply]
-Invite Plugin
-
-!insta [Link]
-Download Picture/Movie Than Instagram]],
+!leave [In Group|SuperGroup]
+LeaveSrv Plugin]],
     help_text = [[Realm & Self  Commands:
 
 !cgp [Name]
@@ -321,11 +318,8 @@ Get Backup
 !bot off
 Get Bot ON/OFF in Group
 
-!invite [Username|Reply]
-Invite Plugin
-
-!insta [Link]
-Download Picture/Movie Than Instagram]],
+!leave [In Group|SuperGroup]
+LeaveSrv Plugin]],
 	help_text_super =[[Realm & Self  Commands:
 
 !cgp [Name]
@@ -369,11 +363,8 @@ Get Backup
 !bot off
 Get Bot ON/OFF in Group
 
-!invite [Username|Reply]
-Invite Plugin
-
-!insta [Link]
-Download Picture/Movie Than Instagram]],
+!leave [In Group|SuperGroup]
+LeaveSrv Plugin]],
   }
   serialize_to_file(config, './data/config.lua')
   print('saved config into ./data/config.lua')

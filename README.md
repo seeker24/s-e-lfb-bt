@@ -1,6 +1,8 @@
 # <p align="center">[BoyCode](https://instagram.com/EhsanFox_Programmer)
 ## <p align="center">[Self-Bot](https://Github.com/EhsanFox/Self-Bot)
 
+Base In MutePuker | Taylor
+
 # <p align="center">How Run?
 
 ```sh

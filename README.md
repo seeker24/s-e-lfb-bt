@@ -22,7 +22,8 @@ And Save It
 # Now Resume To run
 chmod +x launch.sh
 ./launch.sh install
-./launch.sh # Phone Number # Telegram Code```
+./launch.sh # Phone Number # Telegram Code
+```sh
 
 # <p align="center">Contact Me
 

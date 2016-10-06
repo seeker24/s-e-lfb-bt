@@ -28,6 +28,7 @@ Add Telegram ID [[Not username]] ( For Get Your Telegram ID go to ThisBot > http
 And Save It
 
 # Now Resume To run
+cd ..
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Phone Number # Telegram Code

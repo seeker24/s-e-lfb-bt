@@ -12,6 +12,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 cd $HOME
 git clone https://github.com/EhsanFox/Self-Bot
 cd Self-Bot
+git clone https://github.com/EhsanFox/tg
 # Now Set Sudo Yours
 Go to bot/self-bot.lua
 Line [] :

@@ -13,6 +13,7 @@ cd $HOME
 git clone https://github.com/EhsanFox/Self-Bot
 cd Self-Bot
 git clone https://github.com/EhsanFox/tg
+# dont change this becuse its tg of Self-Bot with supprting HTML 
 # Now Set Sudo Yours
 Go to bot/self-bot.lua
 Line [] :

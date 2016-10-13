@@ -218,16 +218,9 @@ function create_config( )
     "inv",
     "on-off"
     },
-    sudo_users = {},--Sudo users
+    sudo_users = {70545327},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[BoyCode Self-Bot 🤖👥
-Writed by : @BoyCode
-
-Base In Taylor-Self & MutePuker-Self
-
-📢 channel : @Ehsan_Fox
-
-📡 github : https://github.com/EhsanFox/Self-Bot
+    about_text = [
 ]],
     help_text_realm = [[
 Realm & Self  Commands:
